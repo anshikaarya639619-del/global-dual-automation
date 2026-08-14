@@ -1,0 +1,16 @@
+{
+  "channels": [
+    {
+      "channel_id": "YOUR_CHANNEL_1_ID",
+      "video_path": "videos/video1.mp4",
+      "title": "MrBeast Level Epic Challenge! 🔥",
+      "description": "Don't miss this! #viral #challenge #24/7"
+    },
+    {
+      "channel_id": "YOUR_CHANNEL_2_ID",
+      "video_path": "videos/video2.mp4",
+      "title": "INSANE Content 24/7! 🚀",
+      "description": "The madness never stops! #trending #mrbeast"
+    }
+  ]
+}
