@@ -1,0 +1,20 @@
+{
+  "channels": [
+    {
+      "name": "Tariqal Akhirah",
+      "live_stream_hours": 20,
+      "videos": 2,
+      "video_duration_mins": 50,
+      "posts_daily": 5,
+      "reels_daily": 2
+    },
+    {
+      "name": "Raah e Aakhirat",
+      "live_stream_hours": 20,
+      "videos": 2,
+      "video_duration_mins": 50,
+      "posts_daily": 5,
+      "reels_daily": 2
+    }
+  ]
+}
